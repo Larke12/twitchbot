@@ -22,3 +22,12 @@ func main() {
 	bot.Run()
 }
 ```
+
+# TODO: Migrate from python bot
+* Urban Dictionary definition requests, !urban and mod only, filter words
+* Standard Dictionary, !define to pull a max number of defintions (store in DB?)
+* Temperature, !temp to convert xF or xC values provided
+* Twitter Shoutouts, !tso obtain the given Twitch users probable twitter URL
+
+#TODO: New
+* Twitch Channel Point reactions (DB?)
