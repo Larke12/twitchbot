@@ -29,5 +29,5 @@ func main() {
 * Temperature, !temp to convert xF or xC values provided
 * Twitter Shoutouts, !tso obtain the given Twitch users probable twitter URL
 
-#TODO: New
+# TODO: New
 * Twitch Channel Point reactions (DB?)
